@@ -1,5 +1,6 @@
 // establishes a connection with the game server
 const net = require("net");
+const { IP, PORT, PLAYER_NAME, MOVEMENT_KEYS } = require('./constants');
 
 // establish a connection with the game server
 const connect = () => {
