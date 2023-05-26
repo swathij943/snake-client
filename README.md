@@ -24,7 +24,7 @@ This game is inspired by the game [Snek](https://store.steampowered.com/app/7655
 
 ## Getting Started
 
-- Follow steps inside the snek server repo to run the [server] https://github.com/lighthouse-labs/snek-multiplayer
+- Follow steps inside the snek server repo to run the [Server] https://github.com/lighthouse-labs/snek-multiplayer
 
 
 ## Instructions
