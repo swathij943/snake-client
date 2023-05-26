@@ -5,7 +5,8 @@ const MOVEMENT_KEYS = {
   w: 'Move: up',
   a: 'Move: left',
   s: 'Move: down',
-  d: 'Move: right'
+  d: 'Move: right',
+  x: 'Say: Hello SNK'
 };
 
 module.exports = {
